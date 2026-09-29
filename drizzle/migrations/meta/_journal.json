@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789733814796,
+      "tag": "0000_create_expense_tracker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789967951902,
+      "tag": "0001_scope_expense_data_to_user",
+      "breakpoints": true
+    }
+  ]
+}
